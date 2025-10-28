@@ -8,7 +8,7 @@ A fun and interactive Rock Paper Scissors game built using **HTML**, **CSS**, an
 - Randomized computer choices
 - Instant result display (Win / Lose / Draw)
 - Responsive design for desktop and mobile
-- Emoji-enhanced buttons for a playful experience
+- Customized buttons for a playful experience
 
 ## 🖼️ Demo
 
